@@ -3,12 +3,12 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.5.0/firebas
 import { getAuth } from "https://www.gstatic.com/firebasejs/10.5.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBzRVTaQAav7gVVBk8sJ4DvOiOAdPUYa20",
+  authDomain: "inlaid-stack-473817-h4.firebaseapp.com",
+  projectId: "inlaid-stack-473817-h4",
+  storageBucket: "inlaid-stack-473817-h4.firebasestorage.app",
+  messagingSenderId: "565359288723",
+  appId: "1:565359288723:web:5e84780f39fb9b346fc866"
 };
 
 export const app = initializeApp(firebaseConfig);
